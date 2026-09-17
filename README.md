@@ -137,7 +137,7 @@ incidents.
 ## Full Incident Report
 
 The complete incident analysis is available in this repository:
-[📄 View Full Incident Report](reports/phishing-credential-compromise-incident-report.pdf)
+[📄 View Full Incident Report](reports/phishing-credential-compromise.pdf)
 
 ---
 
